@@ -69,9 +69,8 @@ Routes to test:
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 [![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 
-## How to Contribute
-
-[Contributor Covenant](https://www.contributor-covenant.org/) 
+## Credits 
+Debug: Salissa Github: https://github.com/salissa4
 
 ## License
 
