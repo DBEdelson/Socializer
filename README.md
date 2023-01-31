@@ -36,6 +36,7 @@ To run via local environment:
 - Moment.js
 
 ## Test
+![Screenshot 2023-01-30 at 12 36 04 PM](https://user-images.githubusercontent.com/109247874/215567053-84952b84-e4ff-4e2f-9e69-713428738efa.png)
 
 Routes to test:
 - Users
@@ -71,6 +72,8 @@ Routes to test:
 
 ## Credits 
 Debug: Salissa Github: https://github.com/salissa4
+
+Tutoring: Chris Baird 
 
 ## License
 
